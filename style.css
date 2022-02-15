@@ -470,7 +470,12 @@ ul li a:hover{
 .form{
     justify-content: space-between;
 } 
-
+body{
+    background:url(https://images.pexels.com/photos/1006965/pexels-photo-1006965.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 }
 body{
     background:url(https://images.pexels.com/photos/1006965/pexels-photo-1006965.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
